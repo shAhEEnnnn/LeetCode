@@ -8,6 +8,7 @@ Practice Question of LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/shAhEEnnnn/LeetCode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/shAhEEnnnn/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0867-transpose-matrix](https://github.com/shAhEEnnnn/LeetCode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -25,4 +26,5 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/shAhEEnnnn/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
