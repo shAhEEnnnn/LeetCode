@@ -9,6 +9,7 @@ Practice Question of LeetCode
 | [0001-two-sum](https://github.com/shAhEEnnnn/LeetCode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/shAhEEnnnn/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/shAhEEnnnn/LeetCode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ Practice Question of LeetCode
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/shAhEEnnnn/LeetCode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -27,4 +29,12 @@ Practice Question of LeetCode
 | ------- |
 | [0118-pascals-triangle](https://github.com/shAhEEnnnn/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0119-pascals-triangle-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
