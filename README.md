@@ -38,6 +38,7 @@ Practice Question of LeetCode
 | ------- |
 | [0069-sqrtx](https://github.com/shAhEEnnnn/LeetCode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0441-arranging-coins](https://github.com/shAhEEnnnn/LeetCode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/shAhEEnnnn/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shAhEEnnnn/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
@@ -62,4 +63,5 @@ Practice Question of LeetCode
 | ------- |
 | [0013-roman-to-integer](https://github.com/shAhEEnnnn/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/shAhEEnnnn/LeetCode/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/shAhEEnnnn/LeetCode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
