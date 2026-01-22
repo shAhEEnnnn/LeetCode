@@ -36,6 +36,7 @@ Practice Question of LeetCode
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shAhEEnnnn/LeetCode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/shAhEEnnnn/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shAhEEnnnn/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -60,4 +61,5 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shAhEEnnnn/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/shAhEEnnnn/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
