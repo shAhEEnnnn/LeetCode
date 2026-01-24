@@ -7,6 +7,7 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shAhEEnnnn/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/shAhEEnnnn/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shAhEEnnnn/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0179-largest-number](https://github.com/shAhEEnnnn/LeetCode/tree/master/0179-largest-number) |
@@ -59,6 +60,7 @@ Practice Question of LeetCode
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shAhEEnnnn/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/shAhEEnnnn/LeetCode/tree/master/0179-largest-number) |
 ## Math
 |  |
@@ -70,4 +72,8 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shAhEEnnnn/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shAhEEnnnn/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
