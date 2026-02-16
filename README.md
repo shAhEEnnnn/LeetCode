@@ -33,6 +33,7 @@ Practice Question of LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shAhEEnnnn/LeetCode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/shAhEEnnnn/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Binary Search
@@ -52,6 +53,7 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shAhEEnnnn/LeetCode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/shAhEEnnnn/LeetCode/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/shAhEEnnnn/LeetCode/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -76,4 +78,8 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shAhEEnnnn/LeetCode/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shAhEEnnnn/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
