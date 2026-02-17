@@ -12,6 +12,7 @@ Practice Question of LeetCode
 | [0119-pascals-triangle-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0179-largest-number](https://github.com/shAhEEnnnn/LeetCode/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/shAhEEnnnn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/shAhEEnnnn/LeetCode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/shAhEEnnnn/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shAhEEnnnn/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -42,6 +43,7 @@ Practice Question of LeetCode
 | ------- |
 | [0069-sqrtx](https://github.com/shAhEEnnnn/LeetCode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/shAhEEnnnn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/shAhEEnnnn/LeetCode/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/shAhEEnnnn/LeetCode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/shAhEEnnnn/LeetCode/tree/master/0704-binary-search) |
@@ -81,6 +83,7 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shAhEEnnnn/LeetCode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/shAhEEnnnn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -101,4 +104,8 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shAhEEnnnn/LeetCode/tree/master/0493-reverse-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shAhEEnnnn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
