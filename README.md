@@ -7,6 +7,7 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shAhEEnnnn/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/shAhEEnnnn/LeetCode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/shAhEEnnnn/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shAhEEnnnn/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -23,6 +24,7 @@ Practice Question of LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/shAhEEnnnn/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shAhEEnnnn/LeetCode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/shAhEEnnnn/LeetCode/tree/master/0041-first-missing-positive) |
 ## Matrix
 |  |
 | ------- |
