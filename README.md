@@ -12,6 +12,7 @@ Practice Question of LeetCode
 | [0119-pascals-triangle-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0179-largest-number](https://github.com/shAhEEnnnn/LeetCode/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/shAhEEnnnn/LeetCode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/shAhEEnnnn/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shAhEEnnnn/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/shAhEEnnnn/LeetCode/tree/master/0867-transpose-matrix) |
@@ -42,6 +43,7 @@ Practice Question of LeetCode
 | [0069-sqrtx](https://github.com/shAhEEnnnn/LeetCode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0441-arranging-coins](https://github.com/shAhEEnnnn/LeetCode/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/shAhEEnnnn/LeetCode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/shAhEEnnnn/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shAhEEnnnn/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shAhEEnnnn/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -49,6 +51,7 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/shAhEEnnnn/LeetCode/tree/master/0493-reverse-pairs) |
 ## String
 |  |
 | ------- |
@@ -82,4 +85,20 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shAhEEnnnn/LeetCode/tree/master/0022-generate-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shAhEEnnnn/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shAhEEnnnn/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shAhEEnnnn/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shAhEEnnnn/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
