@@ -110,4 +110,8 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shAhEEnnnn/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
