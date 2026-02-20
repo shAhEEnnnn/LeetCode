@@ -85,6 +85,7 @@ Practice Question of LeetCode
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shAhEEnnnn/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shAhEEnnnn/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -117,6 +118,7 @@ Practice Question of LeetCode
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shAhEEnnnn/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
