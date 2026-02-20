@@ -25,6 +25,7 @@ Practice Question of LeetCode
 | [0001-two-sum](https://github.com/shAhEEnnnn/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shAhEEnnnn/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/shAhEEnnnn/LeetCode/tree/master/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shAhEEnnnn/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Matrix
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shAhEEnnnn/LeetCode/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shAhEEnnnn/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/shAhEEnnnn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
@@ -113,5 +115,6 @@ Practice Question of LeetCode
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/shAhEEnnnn/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
