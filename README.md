@@ -88,6 +88,7 @@ Practice Question of LeetCode
 | [0075-sort-colors](https://github.com/shAhEEnnnn/LeetCode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shAhEEnnnn/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/shAhEEnnnn/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -117,4 +118,5 @@ Practice Question of LeetCode
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/shAhEEnnnn/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
