@@ -123,6 +123,11 @@ Practice Question of LeetCode
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shAhEEnnnn/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
