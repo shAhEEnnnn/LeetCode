@@ -25,6 +25,7 @@ Practice Question of LeetCode
 | [0001-two-sum](https://github.com/shAhEEnnnn/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shAhEEnnnn/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/shAhEEnnnn/LeetCode/tree/master/0041-first-missing-positive) |
+| [0138-copy-list-with-random-pointer](https://github.com/shAhEEnnnn/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shAhEEnnnn/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Matrix
 |  |
@@ -122,6 +123,7 @@ Practice Question of LeetCode
 | [0061-rotate-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/shAhEEnnnn/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shAhEEnnnn/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
