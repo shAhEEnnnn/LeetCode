@@ -15,6 +15,7 @@ Practice Question of LeetCode
 | [0240-search-a-2d-matrix-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shAhEEnnnn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/shAhEEnnnn/LeetCode/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/shAhEEnnnn/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shAhEEnnnn/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/shAhEEnnnn/LeetCode/tree/master/0867-transpose-matrix) |
@@ -137,9 +138,11 @@ Practice Question of LeetCode
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
