@@ -19,6 +19,7 @@ Practice Question of LeetCode
 | [0704-binary-search](https://github.com/shAhEEnnnn/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shAhEEnnnn/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/shAhEEnnnn/LeetCode/tree/master/0867-transpose-matrix) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shAhEEnnnn/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shAhEEnnnn/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -139,10 +140,12 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shAhEEnnnn/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shAhEEnnnn/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
