@@ -9,6 +9,7 @@ Practice Question of LeetCode
 | [0001-two-sum](https://github.com/shAhEEnnnn/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/shAhEEnnnn/LeetCode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/shAhEEnnnn/LeetCode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shAhEEnnnn/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/shAhEEnnnn/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0179-largest-number](https://github.com/shAhEEnnnn/LeetCode/tree/master/0179-largest-number) |
@@ -139,12 +140,14 @@ Practice Question of LeetCode
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shAhEEnnnn/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shAhEEnnnn/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shAhEEnnnn/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shAhEEnnnn/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
