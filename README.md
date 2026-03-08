@@ -141,6 +141,7 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shAhEEnnnn/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/shAhEEnnnn/LeetCode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shAhEEnnnn/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -151,4 +152,8 @@ Practice Question of LeetCode
 | [0503-next-greater-element-ii](https://github.com/shAhEEnnnn/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shAhEEnnnn/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shAhEEnnnn/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
