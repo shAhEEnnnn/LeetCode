@@ -20,6 +20,7 @@ Practice Question of LeetCode
 | [0704-binary-search](https://github.com/shAhEEnnnn/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shAhEEnnnn/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/shAhEEnnnn/LeetCode/tree/master/0867-transpose-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shAhEEnnnn/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shAhEEnnnn/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shAhEEnnnn/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -39,6 +40,7 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/shAhEEnnnn/LeetCode/tree/master/0867-transpose-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shAhEEnnnn/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +84,7 @@ Practice Question of LeetCode
 | [0013-roman-to-integer](https://github.com/shAhEEnnnn/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/shAhEEnnnn/LeetCode/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/shAhEEnnnn/LeetCode/tree/master/0441-arranging-coins) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shAhEEnnnn/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
 | ------- |
@@ -136,6 +139,7 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shAhEEnnnn/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shAhEEnnnn/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -156,4 +160,8 @@ Practice Question of LeetCode
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shAhEEnnnn/LeetCode/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shAhEEnnnn/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
